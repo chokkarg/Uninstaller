@@ -21,6 +21,12 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**
+ * 
+ * @author chokkar
+ * 
+ */
+
 public class ListUninstallApp extends ListActivity {
 
 	List<String> appNameList;
